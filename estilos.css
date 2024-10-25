@@ -1,0 +1,33 @@
+*{box-sizing:border-box}
+h1:nth-of-type(1) {
+   color: rgb(235, 171, 231);
+   text-align: center;
+  
+}
+h2:nth-of-type(1){
+    color: rgb(200, 161, 245);
+    text-align: center;
+    
+}
+p:nth-of-type(1){
+    color: rgb(236, 152, 152);
+    text-align: center;
+}
+:root{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: hotpink;
+    text-align: center;
+}
+body{
+    background-color: rgb(255, 255, 255);
+
+}
+#mi-id {
+  color: rgb(255, 0, 76); /* 100 puntos */
+}
+#mDos {
+    color: purple;
+}
+body{
+    font-family: verdana, arial !important;
+    }
